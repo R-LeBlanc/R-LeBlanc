@@ -1,6 +1,6 @@
 ### Hi, I'm Rebekah LeBlanc 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/r-leblanc/r-leblanc)] [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8?style=for-the-badge)](https://www.linkedin.com/in/rebekahleblanc/)
+[![Visits Badge](https://badges.pufler.dev/visits/r-leblanc/r-leblanc)(https://github.com/R-LeBlanc)] [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8?style=for-the-badge)](https://www.linkedin.com/in/rebekahleblanc/)
 <!--
 **R-LeBlanc/R-LeBlanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
