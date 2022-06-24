@@ -14,7 +14,7 @@ features, or improving upon existing ones.
 
  ### :pushpin: Pinned Repositories
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=R-LeBlanc&repo=Final-Project)](https://github.com/R-LeBlanc/Final-Project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=R-LeBlanc&repo=ECommerce-Group-Project)](https://github.com/R-LeBlanc/ECommerce-Group-Project)
 <!-- <a href="https://github.com/R-LeBlanc/Final-Project">
