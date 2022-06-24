@@ -1,6 +1,6 @@
 ### Hi, I'm Rebekah LeBlanc 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/R-LeBlanc/R-LeBlanc)] [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rebekahleblanc/) 
+[![Visits Badge](https://badges.pufler.dev/visits/R-LeBlanc/R-LeBlanc)] [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rebekahleblanc/) [![Artstation Badge](https://img.shields.io/badge/Artstation-Profile-informational?style=for-the-badge&logo=artstation&logoColor=white&color=0D76A8)](https://www.artstation.com/rebekahleblanc)
 <!--
 **R-LeBlanc/R-LeBlanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
