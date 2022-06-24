@@ -20,4 +20,6 @@ features, or improving upon existing ones.
 
  ### :bar_chart: GitHub Stats
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-LeBlanc&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-LeBlanc&show_icons=true&theme=tokyonight)](https://github.com/R-LeBlanc)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-LeBlanc&show_icons=true&theme=tokyonight)](https://github.com/R-LeBlanc)
