@@ -35,3 +35,8 @@ features, or improving upon existing ones.
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Style-BootStrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=0D76A8)
+
+![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=for-the-badge&logo=adobexd&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=photoshop&logoColor=white&color=0D76A8)
