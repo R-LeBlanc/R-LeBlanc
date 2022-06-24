@@ -14,12 +14,15 @@ features, or improving upon existing ones.
 
  ### :pushpin: Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=R-LeBlanc&repo=Final-Project)](https://github.com/R-LeBlanc/Final-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=R-LeBlanc&repo=Final-Project&theme=tokyonight&theme=tokyonight)](https://github.com/R-LeBlanc/Final-Project)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=R-LeBlanc&repo=ECommerce-Group-Project)](https://github.com/R-LeBlanc/ECommerce-Group-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=R-LeBlanc&repo=ECommerce-Group-Project&theme=tokyonight)](https://github.com/R-LeBlanc/ECommerce-Group-Project)
 
  ### :bar_chart: GitHub Stats
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-LeBlanc&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/R-LeBlanc) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-LeBlanc&theme=tokyonight&layout=compact)](https://github.com/R-LeBlanc)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-LeBlanc&theme=tokyonight&layout=compact)](https://github.com/R-LeBlanc) -->
+
+###  :bow_and_arrow: Skills
+
+
