@@ -30,3 +30,4 @@ features, or improving upon existing ones.
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-Express-informational?style=for-the-badge&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html&logoColor=white&color=0D76A8)
