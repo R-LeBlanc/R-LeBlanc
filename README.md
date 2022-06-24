@@ -12,7 +12,7 @@ features, or improving upon existing ones.
 - ⚡ Fun fact: I love archery, running, and video games!
 
 
- :pushpin: ### Pinned Repositories
+ ### :pushpin: Pinned Repositories
 
 <a href="https://github.com/R-LeBlanc/Final-Project">
  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=R-LeBlanc&repo=Final-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
