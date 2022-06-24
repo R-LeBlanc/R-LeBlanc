@@ -17,6 +17,7 @@ features, or improving upon existing ones.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=R-LeBlanc&repo=Final-Project)](https://github.com/R-LeBlanc/Final-Project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=R-LeBlanc&repo=ECommerce-Group-Project)](https://github.com/R-LeBlanc/ECommerce-Group-Project)
-<!-- <a href="https://github.com/R-LeBlanc/Final-Project">
- <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=R-LeBlanc&repo=Final-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
+
+ ### :bar_chart: GitHub Stats
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-LeBlanc&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
