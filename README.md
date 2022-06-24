@@ -1,6 +1,6 @@
 ### Hi, I'm Rebekah LeBlanc 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/R-LeBlanc/R-LeBlanc)] [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rebekahleblanc/) [![Artstation Badge](https://img.shields.io/badge/Artstation-Profile-informational?style=for-the-badge&logo=artstation&logoColor=white&color=0D76A8)](https://www.artstation.com/rebekahleblanc)
+[![Visits Badge](https://badges.pufler.dev/visits/R-LeBlanc/R-LeBlanc)] [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/rebekahleblanc/) [![Artstation Badge](https://img.shields.io/badge/Artstation-Profile-informational?style=for-the-badge&logo=artstation&logoColor=white&color=4AB197)](https://www.artstation.com/rebekahleblanc)
 
 I am passionate Web Developer with a background in both Fine Arts and Game Arts. I have the skill sets that let
 me see the technical side of things and the artistic side.
@@ -25,18 +25,18 @@ features, or improving upon existing ones.
 
 ###  :bow_and_arrow: Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Code-Express-informational?style=for-the-badge&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Express-informational?style=for-the-badge&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html&logoColor=white&color=4AB197)
 
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Style-BootStrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-BootStrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=for-the-badge&logo=adobexd&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=for-the-badge&logo=adobexd&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=4AB197)
