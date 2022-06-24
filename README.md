@@ -25,4 +25,4 @@ features, or improving upon existing ones.
 
 ###  :bow_and_arrow: Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=0D76A8)
