@@ -1,6 +1,7 @@
 ### Hi, I'm Rebekah LeBlanc 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/R-LeBlanc/R-LeBlanc)] [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/rebekahleblanc/) [![Artstation Badge](https://img.shields.io/badge/Artstation-Profile-informational?style=for-the-badge&logo=artstation&logoColor=white&color=4AB197)](https://www.artstation.com/rebekahleblanc)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/R-LeBlanc/R-LeBlanc)]  -->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/rebekahleblanc/) [![Artstation Badge](https://img.shields.io/badge/Artstation-Profile-informational?style=for-the-badge&logo=artstation&logoColor=white&color=4AB197)](https://www.artstation.com/rebekahleblanc)
 
 I am passionate Web Developer with a background in both Fine Arts and Game Arts. I have the skill sets that let
 me see the technical side of things and the artistic side.
