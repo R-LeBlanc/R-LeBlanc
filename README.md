@@ -8,7 +8,7 @@ me see the technical side of things and the artistic side.
 From figuring out how things work to problem solving, I love the procces of creating new 
 features, or improving upon existing ones.
 
-- 🌱 I’m currently learning Redux and Typescript
+- 🌱 I’m currently learning PostgreSQL and Typescript
 - 📫 How to reach me: leblanc.rebekah@gmail.com
 - ⚡ Fun fact: I love archery, running, and video games!
 
